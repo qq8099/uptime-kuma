@@ -194,3 +194,7 @@ Feel free to correct the grammar in the documentation or code.
 My mother language is not English and my grammar is not that great.
 
 
+## Acknowledgements
+
+Special thanks to [VTEXS](https://www.vtexs.com) for providing VPS support for this project.  
+Their support greatly helps the development and stability of the open-source community.
